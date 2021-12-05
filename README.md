@@ -1,12 +1,3 @@
-# CAT.PY
-# This is a short and simple class of a cat simulation where users can create and interact with their own creations. 
-
-# Quick description of this specific class:
-#   - This Cat class is intended to simulate a tamagochi-like experience, where users get to create their own cats, and take care of them to earn affection points. 
-#   - There are multiple choices of actions that users can choose from, each action resulting in either earning or losing affection points. 
-#   - There are 2 useful methods in this class that allows users to check their progress on their cats: get_affection_advice, and get_cat_overview. 
-
-# create the class. 
 class Cat:
     # set some class attributes. 
     affection = 0.0
